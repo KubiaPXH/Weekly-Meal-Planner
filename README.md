@@ -18,7 +18,7 @@ The **Weekly Meals Planner** need to be opened in PowerBI, its interface is belo
 
 ![weekly_meals_planner](https://user-images.githubusercontent.com/62499070/163591607-07b7db21-dfdb-409a-9215-7e32fd196e8a.png)
 
-- The main part of the planner is the upper part where all dishes in the week are allocated in each weekday (to minimize cooking time, we only cook the dishes one time but each them for both lunch and dinner)
+- The main part of the planner is the upper part where all dishes in the week are allocated in each weekday (the dishes are in Vietnamese which is my mother tongue :) ). To minimize cooking time, we only cook the dishes one time but each them for both lunch and dinner. 
 - The right lower part is the list of all ingredients we need to buy for the week and where to buy them
 - The left lower part is the ingredients and recipe for choosen dish (we need to choose a dish to have the corresponding ingredients and recipe)
 
